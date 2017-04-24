@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">storepage</string>
+    <string name="app_name">StorePage</string>
+    <string name="store_name">7-11 金融店</string>
+    <string name="store_desc">欢迎光临 7-11 金融店，我们将竭诚为您服务！</string>
 </resources>
